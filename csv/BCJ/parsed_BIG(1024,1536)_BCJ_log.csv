@@ -1,0 +1,52 @@
+latest-trik-image-langs-trikboard.sdimg; 1024; 3; 0; 2; normal; 64; bt4; 0; 10754; 1025; 121.6; 3.2; 5:46; ARM
+latest-trik-image-langs-trikboard.sdimg; 1024; 3; 0; 2; normal; 64; bt4; 0; 10754; 1025; 124.7; 3.2; 5:47; ARM-THUMB
+latest-trik-image-langs-trikboard.sdimg; 1024; 3; 0; 2; normal; 273; bt4; 512; 10754; 1025; 121.4; 2.3; 8:17; ARM
+latest-trik-image-langs-trikboard.sdimg; 1024; 3; 0; 2; normal; 273; bt4; 512; 10754; 1025; 124.8; 2.2; 8:21; ARM-THUMB
+
+latest-trik-image-langs-trikboard.sdimg; 1536; 3; 0; 2; normal; 64; bt4; 0; 16642; 1537; 121.5; 3.2; 5:46; ARM
+
+latest-trik-image-langs-trikboard.sdimg; 1536; 3; 0; 2; normal; 64; bt4; 0; 16642; 1537; 124.7; 3.1; 5:56; ARM-THUMB
+
+latest-trik-image-langs-trikboard.sdimg; 1536; 3; 0; 2; normal; 273; bt4; 512; 16642; 1537; 121.4; 2.2; 8:20; ARM
+
+latest-trik-image-langs-trikboard.sdimg; 1536; 3; 0; 2; normal; 273; bt4; 512; 16642; 1537; 124.8; 2.2; 8:25; ARM-THUMB
+
+raspbian-jessie.img; 1024; 3; 0; 2; normal; 64; bt4; 0; 10754; 1025; 960.3; 2.1; 31:02; ARM
+
+raspbian-jessie.img; 1024; 3; 0; 2; normal; 64; bt4; 0; 10754; 1025; 976.4; 2.0; 32:15; ARM-THUMB
+
+raspbian-jessie.img; 1024; 3; 0; 2; normal; 273; bt4; 512; 10754; 1025; 958.6; 1.6; 41:58; ARM
+
+raspbian-jessie.img; 1024; 3; 0; 2; normal; 273; bt4; 512; 10754; 1025; 974.9; 1.5; 42:45; ARM-THUMB
+
+raspbian-jessie.img; 1536; 3; 0; 2; normal; 64; bt4; 0; 16642; 1537; 951.4; 2.1; 31:57; ARM
+
+raspbian-jessie.img; 1536; 3; 0; 2; normal; 64; bt4; 0; 16642; 1537; 967.4; 2.0; 32:39; ARM-THUMB
+
+raspbian-jessie.img; 1536; 3; 0; 2; normal; 273; bt4; 512; 16642; 1537; 949.7; 1.5; 42:54; ARM
+
+raspbian-jessie.img; 1536; 3; 0; 2; normal; 273; bt4; 512; 16642; 1537; 966.0; 1.5; 43:33; ARM-THUMB
+
+RPi2.ffu; 1024; 3; 0; 2; normal; 64; bt4; 0; 10754; 1025; 342.4; 2.0; 9:28; ARM
+
+RPi2.ffu; 1024; 3; 0; 2; normal; 64; bt4; 0; 10754; 1025; 332.6; 2.1; 9:16; ARM-THUMB
+
+RPi2.ffu; 1024; 3; 0; 2; normal; 273; bt4; 512; 10754; 1025; 341.8; 1.6; 11:47; ARM
+
+RPi2.ffu; 1024; 3; 0; 2; normal; 273; bt4; 512; 10754; 1025; 332.0; 1.6; 11:37; ARM-THUMB
+
+RPi2.ffu; 1536; 3; 0; 2; normal; 64; bt4; 0; 16642; 1537; 342.4; 2.0; 9:23; ARM
+
+RPi2.ffu; 1536; 3; 0; 2; normal; 64; bt4; 0; 16642; 1537; 332.8; 2.1; 9:13; ARM-THUMB
+
+RPi2.ffu; 1536; 3; 0; 2; normal; 273; bt4; 512; 16642; 1537; 341.7; 1.6; 11:41; ARM
+
+RPi2.ffu; 1536; 3; 0; 2; normal; 273; bt4; 512; 16642; 1537; 331.9; 1.7; 11:33; ARM-THUMB
+
+MinnowBoardMax.ffu; 1024; 3; 0; 2; normal; 64; bt4; 0; 10754; 1025; 359.5; 1.8; 10:36; X86
+
+MinnowBoardMax.ffu; 1024; 3; 0; 2; normal; 273; bt4; 512; 10754; 1025; 358.8; 1.5; 12:50; X86
+
+MinnowBoardMax.ffu; 1536; 3; 0; 2; normal; 64; bt4; 0; 16642; 1537; 359.1; 1.8; 10:33; X86
+
+MinnowBoardMax.ffu; 1536; 3; 0; 2; normal; 273; bt4; 512; 16642; 1537; 358.5; 1.5; 12:39; X86
